@@ -1,2 +1,2 @@
 # eink
-Everything regarding eink devices as Onyx Boot, Supernote, Remarkable and etc.
+Everything regarding eink devices as Onyx Boox, Supernote, Remarkable and etc.
